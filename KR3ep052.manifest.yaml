@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep052/v1
 canonical_location: https://kanripo.org/bkk/KR3ep052/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 陳蓮舫醫案
   identifiers:
@@ -16,13 +16,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ep052_001.yaml, hash: 'sha256:f160692d7264caadd16f2e1c3b13a55b56b35c329cd5134b70a898e6bd916cfa'}
-  - {seq: 2, filename: KR3ep052_002.yaml, hash: 'sha256:92f5ba4f51ba2a8b0b134c542c898a9d89b2572c3cc69ab007cbec56d562f24d'}
-  - {seq: 3, filename: KR3ep052_003.yaml, hash: 'sha256:73be72ef7db3772b1fbb550c9fe8ddb1964e7b8046eb3a773c4ebabdaded5fd1'}
+  - {seq: 1, filename: KR3ep052_001.yaml, hash: 'sha256:ed79a3683d7c0cf9280678e360129031ec0b2a43820b2b69b917ca4b64e2a8e0'}
+  - {seq: 2, filename: KR3ep052_002.yaml, hash: 'sha256:b26f064c41f18cda5659bbf929bd3bb350cdc96631f187937e948a3e9e56b1db'}
+  - {seq: 3, filename: KR3ep052_003.yaml, hash: 'sha256:0ae95c1a6f166de31864607f7e7ef3109b7061841128e945f2ff75cbd58c4245'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ep052_001.markers.yaml, hash: 'sha256:a3bf166f09858d0745e6c31380b306344dcdcd5c82779976c080a7ed38b4bc46'}
-  - {seq: 2, role: markers, filename: assets/KR3ep052_002.markers.yaml, hash: 'sha256:e4f3b56c7eddc26f333e23bacf8469f606a8cd668763a1ad80cc06d9a0ae1937'}
-  - {seq: 3, role: markers, filename: assets/KR3ep052_003.markers.yaml, hash: 'sha256:75d7129057d913c6744bb864a32da5a8155b48ea14364823a0bbd4c212f9769e'}
+  - {seq: 1, role: markers, filename: assets/KR3ep052_001.markers.yaml, hash: 'sha256:36484df47fa9caac630feeffc56ca00ecab224abc423fd2b2faa9022de4ac34d'}
+  - {seq: 2, role: markers, filename: assets/KR3ep052_002.markers.yaml, hash: 'sha256:85e444b766f7791f26834dfb7f954a9aa60044392eb0e93db015ce5b1078b636'}
+  - {seq: 3, role: markers, filename: assets/KR3ep052_003.markers.yaml, hash: 'sha256:706f5c21903850f86e71967d70ea7fab33ed1f1d7459dd6a8202c5742e7bcf11'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1344,4 +1344,7 @@ table_of_contents:
   label: 四十二調經
   type: section
   level: 2
-hash: sha256:af80d699a071e4b2daa2ec7f9ce3223a8945f87921481dde2def93e05ba5689e
+hash: sha256:3fc84e075b31023b733b35492caa3ca55b9b3d34fb8ae05d02d636bf7b75ec30
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
